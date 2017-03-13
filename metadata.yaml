@@ -1,5 +1,8 @@
 _repo: A-Romance-of-Youth-Volume-4_3961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coppée, François
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1345
     wikipedia: http://en.wikipedia.org/wiki/François_Coppée
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3961#A-Romance-of-Youth-Volume-4
 gutenberg_issued: '2003-04-01'
 gutenberg_type: Text
 identifiers:
